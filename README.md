@@ -4,7 +4,7 @@
 
 ### <sub>Data Scientist • ML Engineer • Computer Vision • Generative AI</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=1200&color=1F2937&center=true&vCenter=true&width=620&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production-Ready+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&pause=1000&color=0C447C&center=true&vCenter=true&width=580&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production+Systems" />
 
 <br/>
 
