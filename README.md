@@ -1,193 +1,198 @@
-# Smith Newton
+<div align="center">
 
-### Data Scientist | Machine Learning Engineer | Computer Vision & Generative AI
+# Hey, I'm Smith Newton 👋
 
-Building scalable ML systems across Computer Vision, LLM Fine-tuning, RAG pipelines, and Sports Analytics.
+### Data Scientist • ML Engineer • Computer Vision • Generative AI
 
-📍 Chennai, India  
-📧 newtonsmith384@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/smith-newton)  
-🔗 [GitHub](https://github.com/smith-newton)  
-🔗 [LeetCode](https://leetcode.com/u/newtonsmith384/)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=0C447C&center=true&vCenter=true&width=700&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production+Systems" />
+
+<br/>
+
+<a href="https://linkedin.com/in/smith-newton">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:newtonsmith384@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/smith-newton">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/newtonsmith384/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## About
+# About Me
 
-Final-year Electronics & Instrumentation Engineering student with hands-on experience in Machine Learning, Computer Vision, and Generative AI systems.
+```python
+class SmithNewton:
 
-Focused on building end-to-end AI products — from data preprocessing and model training to deployment and real-time inference pipelines.
+    def __init__(self):
+        self.role = "Data Scientist & ML Engineer"
+        self.location = "Chennai, India"
 
-### Highlights
+        self.interests = [
+            "Computer Vision",
+            "LLM Fine-tuning",
+            "RAG Systems",
+            "Sports Analytics"
+        ]
 
-- Granted Patent — Basketball Player Analytics using Computer Vision
-- IEEE Research Author — Healthcare & Sports Analytics
-- Built production-oriented RAG and LLM systems
-- Experience with real-time tracking, retrieval systems, and model optimization
-- Open to Data Scientist and ML Engineer roles
+        self.current_focus = [
+            "Production AI Systems",
+            "Real-time ML Pipelines",
+            "Generative AI Applications"
+        ]
+
+    def say_hi(self):
+        print("Building scalable AI systems 🚀")
+```
 
 ---
 
 # Tech Stack
 
-## Languages
-- Python
-- SQL
-- R
+<div align="center">
 
-## Machine Learning & Deep Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- XGBoost
-- Keras
+### Languages
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
 
-## Generative AI & RAG
-- LangChain
-- Hugging Face
-- LLaMA
-- QLoRA / PEFT
-- Qdrant
-- OpenAI APIs
+### Machine Learning & AI
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-## Computer Vision
-- OpenCV
-- YOLO
-- ByteTrack
-- OSNet
-- Image Processing
+### Backend & Deployment
+<img src="https://skillicons.dev/icons?i=fastapi,docker,github,git" />
 
-## Backend & Deployment
-- FastAPI
-- Docker
-- GitHub Actions
-- Streamlit
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
 
-## Data & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
+</div>
 
 ---
 
 # Featured Projects
 
-## Basketball Analytics Platform — Patent Granted
+## 🏀 Basketball Analytics Platform
 
-Real-time player tracking and analytics engine using computer vision.
+Patent-granted computer vision system for real-time player tracking and analytics.
 
-### Features
-- YOLO-based player detection trained on custom annotated dataset
-- Multi-object tracking using ByteTrack and OSNet Re-ID
-- Speed estimation and movement heatmaps
-- Real-time Streamlit analytics dashboard
+### Highlights
+- Real-time multi-player tracking
+- YOLO-based detection pipeline
+- Speed estimation & heatmaps
+- Streamlit analytics dashboard
 
-### Tech
+**Tech Stack**  
 `YOLO` `OpenCV` `PyTorch` `ByteTrack` `Streamlit`
 
 ---
 
-## Generative AI Legal Assistant
+## ⚖️ Generative AI Legal Assistant
 
-Fine-tuned LLM system trained on Indian legal datasets for legal Q&A and summarization.
+Domain-specific LLM fine-tuned on Indian legal datasets.
 
-### Features
+### Highlights
 - QLoRA-based efficient fine-tuning
-- Custom retrieval and summarization pipeline
-- Optimized low-resource GPU training
-- Interactive legal chatbot interface
+- Legal document summarization
+- Context-aware legal Q&A
+- Optimized low-resource training
 
-### Tech
-`LLaMA-2` `QLoRA` `PEFT` `Transformers` `Streamlit`
-
----
-
-## Legal Document RAG System
-
-Production-style Retrieval-Augmented Generation pipeline for legal document intelligence.
-
-### Features
-- Hybrid semantic + keyword retrieval
-- Qdrant vector database integration
-- Automated evaluation workflow
-- CI/CD evaluation pipelines with GitHub Actions
-
-### Tech
-`LangChain` `Qdrant` `FastAPI` `Docker` `RAGAS`
+**Tech Stack**  
+`LLaMA` `QLoRA` `PEFT` `Transformers`
 
 ---
 
-## Cervical Cancer Risk Prediction
+## 📚 Legal Document RAG System
 
-Research-oriented healthcare ML pipeline for early risk prediction.
+Production-ready Retrieval-Augmented Generation pipeline.
+
+### Highlights
+- Hybrid retrieval architecture
+- Vector search with Qdrant
+- CI/CD evaluation workflows
+- FastAPI inference services
+
+**Tech Stack**  
+`LangChain` `Qdrant` `FastAPI` `Docker`
+
+---
+
+## 🩺 Cervical Cancer Risk Prediction
+
+Healthcare ML research project focused on early-stage risk prediction.
 
 ### Results
 - AUC-ROC: 0.92
 - Accuracy: 87.6%
 
-### Features
-- Feature engineering and preprocessing
-- Ensemble learning pipeline
-- Class imbalance handling
-
-### Tech
+**Tech Stack**  
 `Scikit-learn` `XGBoost` `Pandas`
-
----
-
-## IPL Cricket Analytics
-
-Machine Learning system for player segmentation and win probability analysis.
-
-### Features
-- Player clustering using K-Means
-- Match win probability prediction
-- Interactive visualization dashboard
-
-### Tech
-`XGBoost` `K-Means` `Streamlit`
 
 ---
 
 # Experience
 
-## Machine Learning Intern — Cognifyz Technologies
+## ML Engineer Intern — Cognifyz Technologies
 
-Worked on recommendation systems, predictive modeling, and NLP pipelines using restaurant datasets.
-
-### Contributions
-- Built recommendation engine using TF-IDF and cosine similarity
-- Developed cuisine classification models
-- Improved prediction performance through feature engineering
+- Built recommendation systems
+- Developed predictive ML pipelines
+- Worked on NLP and analytics workflows
 
 ---
 
 ## Computer Vision Intern — Technonauts Technology Services
 
-Worked on object detection and image-processing pipelines for real-time applications.
+- Developed object detection systems
+- Built image-processing workflows
+- Worked on real-time CV applications
 
 ---
 
 # Research & Achievements
 
-- Granted Patent — Basketball Player Analytics using Computer Vision
-- IEEE Research Paper — Cervical Cancer Risk Prediction
-- IEEE Research Paper — AI-Augmented Basketball Coaching Analytics
-- Oracle OCI Generative AI Professional Certified
-- Oracle OCI AI Foundations Certified
-- KNIME Analytics Certified
+- 🏆 Granted Patent — Basketball Player Analytics using Computer Vision
+- 📄 IEEE Research Author
+- ☁️ Oracle OCI Generative AI Certified
+- 🤖 Built RAG and LLM production systems
 
 ---
 
 # GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
-# Philosophy
+# Connect With Me
 
-> Building intelligent systems that are scalable, explainable, and production-ready.
+<div align="center">
+
+<a href="https://linkedin.com/in/smith-newton">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:newtonsmith384@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building intelligent systems from research to production."
+
+</div>
