@@ -4,7 +4,7 @@
 
 ### Data Scientist • ML Engineer • Computer Vision • Generative AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=0C447C&center=true&vCenter=true&width=650&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=15&pause=1400&color=111827&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+%7C+Generative+AI;Computer+Vision+%7C+LLMs+%7C+RAG+Systems;Designing+Scalable+AI+Applications" />
 
 <br/>
 
@@ -176,9 +176,8 @@ Production-grade Retrieval-Augmented Generation pipeline for legal intelligence 
 </div>
 
 ---
-
 <div align="center">
 
-### Building intelligent AI systems from research to production 🚀
+<sub><i>Building intelligent AI systems from research to production.</i></sub>
 
 </div>
