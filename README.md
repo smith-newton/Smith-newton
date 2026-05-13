@@ -104,25 +104,6 @@ Patent-granted computer vision system for real-time player tracking and analytic
 
 `YOLO` `OpenCV` `PyTorch` `ByteTrack` `Streamlit`
 
----
-
-## ⚖️ Generative AI Legal Assistant
-
-Fine-tuned LLM system trained on Indian legal datasets for intelligent legal assistance.
-
-### Highlights
-
-- QLoRA-based efficient fine-tuning
-- Legal document summarization and Q&A
-- Optimized low-resource GPU training
-- Context-aware legal chatbot system
-
-### Tech Stack
-
-`LLaMA` `QLoRA` `PEFT` `Transformers`
-
----
-
 ## 📚 Legal Document RAG System
 
 Production-grade Retrieval-Augmented Generation pipeline for legal intelligence systems.
@@ -137,61 +118,6 @@ Production-grade Retrieval-Augmented Generation pipeline for legal intelligence 
 ### Tech Stack
 
 `LangChain` `Qdrant` `FastAPI` `Docker`
-
----
-
-## 🩺 Cervical Cancer Risk Prediction
-
-Machine Learning healthcare project focused on early-stage risk prediction.
-
-### Results
-
-- AUC-ROC: 0.92
-- Accuracy: 87.6%
-
-### Features
-
-- Feature engineering pipeline
-- Ensemble model training
-- Class imbalance handling
-
-### Tech Stack
-
-`Scikit-learn` `XGBoost` `Pandas`
-
----
-
-## 🏏 IPL Cricket Analytics
-
-Sports analytics platform for player segmentation and win prediction.
-
-### Highlights
-
-- Player clustering using K-Means
-- Match win probability prediction
-- Interactive dashboard visualizations
-
-### Tech Stack
-
-`XGBoost` `K-Means` `Streamlit`
-
----
-
-# Experience
-
-## Machine Learning Intern — Cognifyz Technologies
-
-- Built recommendation systems and ML pipelines
-- Developed NLP and predictive analytics solutions
-- Worked with large restaurant datasets
-
----
-
-## Computer Vision Intern — Technonauts Technology Services
-
-- Developed object detection systems
-- Built real-time image-processing workflows
-- Worked on AI-based visual analytics
 
 ---
 
