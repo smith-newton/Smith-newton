@@ -1,118 +1,258 @@
-# Smith Newton K
+<div align="center">
 
-### Data Scientist & ML Engineer
+# Hey, I'm Smith Newton 👋
 
-[![Location](https://img.shields.io/badge/Chennai%2C%20India-0C447C?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/smith-newton)
-[![Open](https://img.shields.io/badge/Open%20to%20Roles-DS%20%2F%20MLE-3C3489?style=flat-square)](https://linkedin.com/in/smith-newton)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-smith--newton-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/smith-newton)
-[![Email](https://img.shields.io/badge/Email-newtonsmith384%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:newtonsmith384@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-newtonsmith384-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/newtonsmith384/)
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-newtonsmith384-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/newtonsmith384)
+### Data Scientist • ML Engineer • Computer Vision • Generative AI
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=0C447C&center=true&vCenter=true&width=650&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production+Systems" />
 
+<br/>
 
+<a href="https://linkedin.com/in/smith-newton">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:newtonsmith384@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/smith-newton">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/newtonsmith384/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## About me
+# About Me
 
-Final-year Electronics & Instrumentation Engineering student at St. Joseph's College of Engineering, Chennai (GPA 7.9). I build production-grade ML systems across computer vision, LLM fine-tuning, RAG architectures, and statistical modelling.
+I'm a final-year B.Tech student passionate about designing and deploying AI systems that solve real-world challenges. Whether it’s Large Language Models, Computer Vision, or Intelligent Agents, I enjoy turning ideas into production-ready AI solutions.
 
-- **Granted patent** — Basketball Player Analytics using Computer Vision (Aug 2025)
-- **IEEE SMILEs 2026** — Cervical cancer risk prediction · AUC-ROC 0.92 · 87.6% accuracy
-- **2 internships** — ML Engineer @ Cognifyz · CV Intern @ Technonauts Technology Services
-- Open to **Data Scientist** and **ML Engineer** full-time roles
+### 🚀 What I Do
+
+- 💡 Build and deploy Generative AI & LLM-powered applications
+- 🧠 Develop ML/DL models from experimentation to deployment
+- 🎯 Work on computer vision pipelines using YOLO, CNNs, tracking, and transformer architectures
+- ⚙️ Develop backend services with FastAPI and Docker
+- ☁️ Deploy AI systems on cloud environments and scalable infrastructure
 
 ---
 
-## Tech stack
+# Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
 
-### ML / DL frameworks
+### Machine Learning & Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337733?style=flat-square&logo=xgboost&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-### LLMs, NLP & RAG
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LLaMA-2](https://img.shields.io/badge/LLaMA--2-0467DF?style=flat-square&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337733?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
-### Computer vision
+### Generative AI & RAG
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![ByteTrack](https://img.shields.io/badge/ByteTrack-3C3489?style=flat-square&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
 
-### Data & visualisation
+### Computer Vision
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E9AB0?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ByteTrack-3C3489?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swin_Transformer-0C447C?style=for-the-badge"/>
 
-### Deployment & CI/CD
+### Backend & Deployment
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
 
-### Cloud & tools
+### Cloud & Tools
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=flat-square&logo=knime&logoColor=black)
+<img src="https://skillicons.dev/icons?i=aws,vscode,jupyter" />
+
+</div>
 
 ---
 
-## GitHub stats
+# Featured Projects
 
+## 🏀 Basketball Analytics Platform
 
+Patent-granted computer vision system for real-time player tracking and analytics.
 
+### Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true&langs_count=8)
+- Real-time multi-player tracking and movement analysis
+- YOLO-based player detection trained on custom datasets
+- Speed estimation and heatmap generation
+- Interactive Streamlit analytics dashboard
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=smith-newton&hide_border=true)
+### Tech Stack
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smith-newton&theme=minimal&hide_border=true)
-
-
-
-
----
-
-## LeetCode
-
-
-
-
-![LeetCode](https://leetcard.jacoblin.cool/newtonsmith384?theme=light&font=Nunito&ext=heatmap&hide_border=true)
-
-
-
+`YOLO` `OpenCV` `PyTorch` `ByteTrack` `Streamlit`
 
 ---
 
+## ⚖️ Generative AI Legal Assistant
 
+Fine-tuned LLM system trained on Indian legal datasets for intelligent legal assistance.
 
+### Highlights
 
-📫 newtonsmith384@gmail.com  ·  [LinkedIn](https://linkedin.com/in/smith-newton)  ·  [LeetCode](https://leetcode.com/u/newtonsmith384/)  ·  [GFG](https://www.geeksforgeeks.org/profile/newtonsmith384)
+- QLoRA-based efficient fine-tuning
+- Legal document summarization and Q&A
+- Optimized low-resource GPU training
+- Context-aware legal chatbot system
 
-*"Building systems that learn, adapt, and scale."*
+### Tech Stack
+
+`LLaMA` `QLoRA` `PEFT` `Transformers`
+
+---
+
+## 📚 Legal Document RAG System
+
+Production-grade Retrieval-Augmented Generation pipeline for legal intelligence systems.
+
+### Highlights
+
+- Hybrid retrieval architecture
+- Qdrant vector database integration
+- Automated evaluation workflows
+- FastAPI inference pipelines
+
+### Tech Stack
+
+`LangChain` `Qdrant` `FastAPI` `Docker`
+
+---
+
+## 🩺 Cervical Cancer Risk Prediction
+
+Machine Learning healthcare project focused on early-stage risk prediction.
+
+### Results
+
+- AUC-ROC: 0.92
+- Accuracy: 87.6%
+
+### Features
+
+- Feature engineering pipeline
+- Ensemble model training
+- Class imbalance handling
+
+### Tech Stack
+
+`Scikit-learn` `XGBoost` `Pandas`
+
+---
+
+## 🏏 IPL Cricket Analytics
+
+Sports analytics platform for player segmentation and win prediction.
+
+### Highlights
+
+- Player clustering using K-Means
+- Match win probability prediction
+- Interactive dashboard visualizations
+
+### Tech Stack
+
+`XGBoost` `K-Means` `Streamlit`
+
+---
+
+# Experience
+
+## Machine Learning Intern — Cognifyz Technologies
+
+- Built recommendation systems and ML pipelines
+- Developed NLP and predictive analytics solutions
+- Worked with large restaurant datasets
+
+---
+
+## Computer Vision Intern — Technonauts Technology Services
+
+- Developed object detection systems
+- Built real-time image-processing workflows
+- Worked on AI-based visual analytics
+
+---
+
+# Research & Achievements
+
+- 🏆 Granted Patent — Basketball Player Analytics using Computer Vision
+- 📄 IEEE Research Author
+- ☁️ Oracle OCI Generative AI Certified
+- 🤖 Built production-grade RAG and LLM systems
+- 🧠 Strong interest in scalable AI infrastructure
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&hide_border=true&theme=default" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true" />
+
+<br/>
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-newton&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/newtonsmith384?theme=light&font=Nunito&ext=heatmap&hide_border=true"/>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:newtonsmith384@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/smith-newton">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/smith-newton">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building intelligent AI systems from research to production 🚀
+
+</div>
