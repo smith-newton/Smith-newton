@@ -4,7 +4,7 @@
 
 ### <sub>Data Scientist • ML Engineer • Computer Vision • Generative AI</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&pause=1000&color=0C447C&center=true&vCenter=true&width=580&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&pause=1200&color=1F2937&center=true&vCenter=true&width=620&lines=Building+AI+Systems+for+Real-World+Applications;Computer+Vision+%7C+LLMs+%7C+RAG+Pipelines;Turning+Research+into+Production-Ready+Solutions" />
 
 <br/>
 
@@ -92,13 +92,154 @@ I'm a final-year B.Tech student passionate about designing and deploying AI syst
 <img height="42" src="https://skillicons.dev/icons?i=aws,vscode,jupyter" />
 
 </div>
+
+---
+
+# Featured Projects
+
+## 🏀 Basketball Analytics Platform
+
+<sub>
+
+Patent-granted computer vision system for real-time player tracking and analytics.
+
+### Highlights
+
+- Real-time multi-player tracking and movement analysis  
+- YOLO-based player detection trained on custom datasets  
+- Speed estimation and heatmap generation  
+- Interactive Streamlit analytics dashboard  
+
+### Tech Stack
+
+`YOLO` `OpenCV` `PyTorch` `ByteTrack` `Streamlit`
+
+</sub>
+
+---
+
+## ⚖️ Generative AI Legal Assistant
+
+<sub>
+
+Fine-tuned LLM system trained on Indian legal datasets for intelligent legal assistance.
+
+### Highlights
+
+- QLoRA-based efficient fine-tuning  
+- Legal document summarization and Q&A  
+- Optimized low-resource GPU training  
+- Context-aware legal chatbot system  
+
+### Tech Stack
+
+`LLaMA` `QLoRA` `PEFT` `Transformers`
+
+</sub>
+
+---
+
+## 📚 Legal Document RAG System
+
+<sub>
+
+Production-grade Retrieval-Augmented Generation pipeline for legal intelligence systems.
+
+### Highlights
+
+- Hybrid retrieval architecture  
+- Qdrant vector database integration  
+- Automated evaluation workflows  
+- FastAPI inference pipelines  
+
+### Tech Stack
+
+`LangChain` `Qdrant` `FastAPI` `Docker`
+
+</sub>
+
+---
+
+## 🩺 Cervical Cancer Risk Prediction
+
+<sub>
+
+Machine Learning healthcare project focused on early-stage risk prediction.
+
+### Results
+
+- AUC-ROC: 0.92  
+- Accuracy: 87.6%  
+
+### Features
+
+- Feature engineering pipeline  
+- Ensemble model training  
+- Class imbalance handling  
+
+### Tech Stack
+
+`Scikit-learn` `XGBoost` `Pandas`
+
+</sub>
+
+---
+
+## 🏏 IPL Cricket Analytics
+
+<sub>
+
+Sports analytics platform for player segmentation and win prediction.
+
+### Highlights
+
+- Player clustering using K-Means  
+- Match win probability prediction  
+- Interactive dashboard visualizations  
+
+### Tech Stack
+
+`XGBoost` `K-Means` `Streamlit`
+
+</sub>
+
+---
+
+# Experience
+
+### Machine Learning Intern — Cognifyz Technologies
+
+<sub>
+
+- Built recommendation systems and ML pipelines  
+- Developed NLP and predictive analytics solutions  
+- Worked with large restaurant datasets  
+
+</sub>
+
+### Computer Vision Intern — Technonauts Technology Services
+
+<sub>
+
+- Developed object detection systems  
+- Built real-time image-processing workflows  
+- Worked on AI-based visual analytics  
+
+</sub>
+
 ---
 
 # Research & Achievements
 
-- 🏆 Granted Patent — Basketball Player Analytics using Computer Vision
-- 📄 IEEE Research Author
-- 🧠 Strong interest in scalable AI infrastructure
+<sub>
+
+- 🏆 Granted Patent — Basketball Player Analytics using Computer Vision  
+- 📄 IEEE Research Author  
+- ☁️ Oracle OCI Generative AI Certified  
+- 🤖 Built production-grade RAG and LLM systems  
+- 🧠 Strong interest in scalable AI infrastructure  
+
+</sub>
 
 ---
 
@@ -110,7 +251,7 @@ I'm a final-year B.Tech student passionate about designing and deploying AI syst
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-newton&theme=github-compact&hide_border=true"/>
 
@@ -133,15 +274,15 @@ I'm a final-year B.Tech student passionate about designing and deploying AI syst
 <div align="center">
 
 <a href="mailto:newtonsmith384@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  <img height="28" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/smith-newton">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img height="28" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/smith-newton">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  <img height="28" src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -150,6 +291,6 @@ I'm a final-year B.Tech student passionate about designing and deploying AI syst
 
 <div align="center">
 
-### Building intelligent AI systems from research to production 🚀
+### <sub>Building intelligent AI systems from research to production 🚀</sub>
 
 </div>
