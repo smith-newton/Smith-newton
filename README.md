@@ -3,8 +3,6 @@
 ### Data Scientist & ML Engineer
 
 [![Location](https://img.shields.io/badge/Chennai%2C%20India-0C447C?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/smith-newton)
-[![IEEE](https://img.shields.io/badge/IEEE%20Author-SMILEs%202026-085041?style=flat-square&logo=ieee&logoColor=white)](https://github.com/smith-newton)
-[![Patent](https://img.shields.io/badge/Patent%20Granted-Aug%202025-633806?style=flat-square&logo=google-scholar&logoColor=white)](https://github.com/smith-newton)
 [![Open](https://img.shields.io/badge/Open%20to%20Roles-DS%20%2F%20MLE-3C3489?style=flat-square)](https://linkedin.com/in/smith-newton)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-smith--newton-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/smith-newton)
 [![Email](https://img.shields.io/badge/Email-newtonsmith384%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:newtonsmith384@gmail.com)
@@ -81,12 +79,6 @@ Final-year Electronics & Instrumentation Engineering student at St. Joseph's Col
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=flat-square&logo=knime&logoColor=black)
 
-### Certifications
-
-![OCI GenAI](https://img.shields.io/badge/OCI%20GenAI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
-![OCI Foundations](https://img.shields.io/badge/OCI%20AI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME%20Analytics-FFD800?style=flat-square&logo=knime&logoColor=black)
-
 ---
 
 ## GitHub stats
@@ -112,18 +104,6 @@ Final-year Electronics & Instrumentation Engineering student at St. Joseph's Col
 
 
 ![LeetCode](https://leetcard.jacoblin.cool/newtonsmith384?theme=light&font=Nunito&ext=heatmap&hide_border=true)
-
-
-
-
----
-
-## GeeksForGeeks
-
-
-
-
-![GFG](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=newtonsmith384)
 
 
 
