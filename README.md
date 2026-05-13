@@ -68,13 +68,13 @@ Player clustering (K-Means) + win prediction (XGBoost). Interactive Streamlit da
 
 ## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Nunito&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Smith Newton K?theme=light&font=Nunito&ext=heatmap)
 
 ---
 
 ## 🟢 GeeksForGeeks Stats
 
-![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=YOUR_GFG_USERNAME)
+![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=Smith Newton K)
 
 ---
 
