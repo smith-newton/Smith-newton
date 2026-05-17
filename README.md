@@ -1,183 +1,133 @@
 <div align="center">
 
-# Hey, I'm Smith Newton 👋
+# Hey there! 👋 I'm Smith Newton K
 
-### Data Scientist • ML Engineer • Computer Vision • Generative AI
+### ✨ A passionate Data Scientist | ML Engineer from India 🌍
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=15&pause=1400&color=111827&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+%7C+Generative+AI;Computer+Vision+%7C+LLMs+%7C+RAG+Systems;Designing+Scalable+AI+Applications" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1400&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+%7C+Computer+Vision;Generative+AI+%7C+LLMs+%7C+RAG+Systems;Research+%7C+Patents+%7C+Production+AI+Systems)](https://git.io/typing-svg)
 
-<br/>
+---
+
+[![Patent](https://img.shields.io/badge/Granted_Patent-Computer_Vision-blueviolet)](https://github.com/smith-newton/Smith-newton)
+[![IEEE](https://img.shields.io/badge/IEEE-Research_Author-blue)](https://github.com/smith-newton/Smith-newton)
+[![Oracle](https://img.shields.io/badge/Oracle_OCI-GenAI_Certified-red)](https://github.com/smith-newton/Smith-newton)
+[![Open To Work](https://img.shields.io/badge/Open_To_Work-Data_Scientist_%7C_ML_Engineer-success)](mailto:newtonsmith384@gmail.com)
+
+</div>
+
+---
+
+### 🌱 **Currently Learning**
+
+Deepening expertise in **MLOps** to build reliable, production-grade AI pipelines and **Agentic AI** to design autonomous multi-step reasoning systems.
+
+### 👨‍💻 **Projects**
+
+🚀 [Check out my GitHub](https://github.com/smith-newton/Smith-newton)
+
+### 💬 **Ask me about**
+
+Computer Vision, RAG Systems, LLMs, Few-Shot Learning, PyTorch, FastAPI.
+
+### 📫 **Get in Touch**
+
+[Email Me](mailto:newtonsmith384@gmail.com)
+
+### 📄 **My Resume**
+
+📝 [View on LinkedIn](https://linkedin.com/in/smith-newton)
+
+---
+
+### 🔗 Let's Connect!
 
 <a href="https://linkedin.com/in/smith-newton">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-
 <a href="mailto:newtonsmith384@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" height="30" width="40" />
 </a>
-
 <a href="https://github.com/smith-newton">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
-
 <a href="https://leetcode.com/u/newtonsmith384/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
-</div>
+---
+
+### 🛠️ Languages and Tools:
+
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+<a href="https://keras.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a>
+<a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 
 ---
 
-# About Me
-
-I'm a final-year B.Tech student passionate about designing and deploying AI systems that solve real-world challenges. Whether it’s Large Language Models, Computer Vision, or Intelligent Agents, I enjoy turning ideas into production-ready AI solutions.
-
-### 🚀 What I Do
-
-- 💡 Build and deploy Generative AI & LLM-powered applications
-- 🧠 Develop ML/DL models from experimentation to deployment
-- 🎯 Work on computer vision pipelines using YOLO, CNNs, tracking, and transformer architectures
-- ⚙️ Develop backend services with FastAPI and Docker
-- ☁️ Deploy AI systems on cloud environments and scalable infrastructure
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-YOLO_%7C_ByteTrack-111111)](https://github.com/smith-newton/Smith-newton) [![Generative AI](https://img.shields.io/badge/Generative_AI-Full_Stack-blueviolet)](https://github.com/smith-newton/Smith-newton) [![Patent](https://img.shields.io/badge/Patent-Granted-brightgreen)](https://github.com/smith-newton/Smith-newton) [![IEEE](https://img.shields.io/badge/IEEE_Author-SMILEs_2026-blue)](https://github.com/smith-newton/Smith-newton) [![MLOps](https://img.shields.io/badge/MLOps-RAGAS_Evaluated-orange)](https://github.com/smith-newton/Smith-newton) [![Oracle](https://img.shields.io/badge/Oracle_OCI-Certified-red)](https://github.com/smith-newton/Smith-newton) [![Status](https://img.shields.io/badge/Status-Open_To_Work-success)](mailto:newtonsmith384@gmail.com)
 
 ---
 
-# Tech Stack
+### 🌟 About Me 🌟
+
+Hello! I'm **Smith Newton K**, a final-year **B.Tech Electronics & Instrumentation Engineering** student at **St. Joseph's College of Engineering, Chennai** 🎓, with a deep passion for building AI systems that solve real-world challenges. My journey into AI started with curiosity — and it grew into a **granted patent** 🏆.
+
+I hold a **granted patent** on *Basketball Player Analytics using Computer Vision*, a system that performs real-time multi-player tracking using YOLO, ByteTrack, and custom heatmap generation pipelines. That same research mindset led to an **IEEE conference paper** on *Cervical Cancer Risk Prediction*, presented at **SMILEs 2026** — bridging medical AI with practical clinical impact.
+
+On the industry front, I've built **production-grade RAG systems**, **few-shot learning pipelines for satellite imagery** at **Linz Technologies** (75% IoU on WHU dataset), and end-to-end computer vision applications — from model experimentation to **FastAPI + Docker deployment**. I'm **Oracle OCI Generative AI Certified** and passionate about evaluable, scalable AI infrastructure — from RAGAS pipelines to hybrid BM25+FAISS retrieval with CI eval gates.
+
+I believe great AI isn't just about accuracy metrics — it's about systems that are **reliable, explainable, and maintainable in production**. Whether it's a legal intelligence RAG pipeline, a YOLOv8 sports analytics system, or an AI Bible study companion, I engineer for production, not just notebooks 💻.
+
+Open to relocating for the right **Data Scientist** or **ML Engineer** opportunity. Let's build something that matters. 🚀
+
+My motto: **Research. Build. Deploy.** 🛸
+
+### Education 🎓:
+
+- **B.Tech Electronics & Instrumentation Engineering** — St. Joseph's College of Engineering, Chennai *(Final Year)*
+- **IEEE Conference Author** — *Cervical Cancer Risk Prediction*, SMILEs 2026
+- **Granted Patent** — *Basketball Player Analytics using Computer Vision*
+
+### Let's Connect 🤝:
+
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest in **AI** 🤖, **Computer Vision** 👁️, or **Generative AI** 🧠. Let's build something intelligent together! 🚀
+
+![Coding GIF](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
+
+---
 
 <div align="center">
 
-### Languages
+### 📊 GitHub Analytics
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql" />
-
-### Machine Learning & Deep Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-337733?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-### Generative AI & RAG
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-
-### Computer Vision
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ByteTrack-3C3489?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swin_Transformer-0C447C?style=for-the-badge"/>
-
-### Backend & Deployment
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,vscode,jupyter" />
-
-</div>
-
----
-
-# Featured Projects
-
-## 🏀 Basketball Analytics Platform
-
-Patent-granted computer vision system for real-time player tracking and analytics.
-
-### Highlights
-
-- Real-time multi-player tracking and movement analysis
-- YOLO-based player detection trained on custom datasets
-- Speed estimation and heatmap generation
-- Interactive Streamlit analytics dashboard
-
-### Tech Stack
-
-`YOLO` `OpenCV` `PyTorch` `ByteTrack` `Streamlit`
-
-## 📚 Legal Document RAG System
-
-Production-grade Retrieval-Augmented Generation pipeline for legal intelligence systems.
-
-### Highlights
-
-- Hybrid retrieval architecture
-- Qdrant vector database integration
-- Automated evaluation workflows
-- FastAPI inference pipelines
-
-### Tech Stack
-
-`LangChain` `Qdrant` `FastAPI` `Docker`
-
----
-
-# Research & Achievements
-
-- 🏆 Granted Patent — Basketball Player Analytics using Computer Vision
-- 📄 IEEE Research Author
-- ☁️ Oracle OCI Generative AI Certified
-- 🤖 Built production-grade RAG and LLM systems
-- 🧠 Strong interest in scalable AI infrastructure
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&hide_border=true&theme=default" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true&theme=github_dark"/>
 
 <br/>
 
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-newton&theme=github-compact&hide_border=true"/>
 
-</div>
+---
+
+### 🏆 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/newtonsmith384?theme=dark&font=Nunito&ext=heatmap&hide_border=true"/>
 
 ---
 
-# LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/newtonsmith384?theme=light&font=Nunito&ext=heatmap&hide_border=true"/>
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:newtonsmith384@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/smith-newton">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/smith-newton">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-<div align="center">
-
-<sub><i>Building intelligent AI systems from research to production.</i></sub>
+<sub><i>Building intelligent AI systems — from research to production.</i></sub>
 
 </div>
