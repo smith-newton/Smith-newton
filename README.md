@@ -110,11 +110,3 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 ---
 
 <div align="center">
-
-
-### 🏆 LeetCode
-
-<img src="https://leetcard.jacoblin.cool/newtonsmith384?theme=dark&font=Nunito&ext=heatmap&hide_border=true"/>
-
-<i>Building intelligent AI systems — from research to production.</i>
-</div>
