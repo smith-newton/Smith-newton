@@ -111,23 +111,10 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smith-newton&show_icons=true&hide_border=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-newton&layout=compact&hide_border=true&theme=github_dark"/>
-
-<br/>
-
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-newton&theme=github-compact&hide_border=true"/>
-
----
 
 ### 🏆 LeetCode
 
 <img src="https://leetcard.jacoblin.cool/newtonsmith384?theme=dark&font=Nunito&ext=heatmap&hide_border=true"/>
 
----
-
-<sub><i>Building intelligent AI systems — from research to production.</i></sub>
-
+<i>Building intelligent AI systems — from research to production.</i>
 </div>
